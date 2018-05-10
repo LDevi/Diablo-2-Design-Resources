@@ -4,7 +4,11 @@
 This is a non-profit project that aims to gather useful resources to build utility software related  `Diablo® II` & `Diablo® II: Lord of Destruction®` games.
 
 ## What's inside ?
-WIP
+
+### Runes :
+(Icon for mobile devices (svg, png/Android, png/iOS))[https://github.com/LDevi/Diablo2Resources/tree/master/runes/mobile/icons]
+
+WIP : more will be added.
 
 ## Cop
 Since some reources provided here have been extracted from `Diablo® II` please read :
