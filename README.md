@@ -16,8 +16,11 @@ Since some reources provided here have been extracted from `Diablo® II` please 
 
 - [Diablo II copyright notices](http://us.blizzard.com/en-us/company/about/copyrightnotices.html)
 ``
-Diablo® II
+__Diablo® II__
+
     ©2000 Blizzard Entertainment, Inc. All rights reserved. Diablo and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
-Diablo® II: Lord of Destruction®
+
+__Diablo® II: Lord of Destruction®__
+
     ©2001 Blizzard Entertainment, Inc. All rights reserved. Diablo, Lord of Destruction and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
 ``
