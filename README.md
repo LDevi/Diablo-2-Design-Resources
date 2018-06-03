@@ -6,13 +6,13 @@ This is a non-profit project that aims to gather useful resources to build utili
 ## What's inside ?
 
 ### Runes images :
-- (Icon for mobile devices)[runes/mobile/icons]
+- [Icons for mobile devices](runes/mobile/icons)
 
 ### Game wordings
 
-- (Original game)[game-wordings/game]
-- (LOD Expansion)[game-wordings/expansion/lod]
-- (Patch v1.10)[game-wordings/patch/v1.10] (note that this is not up to date since v1.10 is not the last released patch)
+- [Original game](game-wordings/game)
+- [LOD Expansion](game-wordings/expansion/lod)
+- [Patch v1.10](game-wordings/patch/v1.10) (note that this is not up to date since v1.10 is not the last released patch)
 
 
 WIP : more will be added. Any help is welcome.
