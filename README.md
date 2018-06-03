@@ -10,9 +10,9 @@ This is a non-profit project that aims to gather useful resources to build utili
 
 ### Game wordings
 
-- [Original game](game-wordings/game)
-- [LOD Expansion](game-wordings/expansion/lod)
-- [Patch v1.10](game-wordings/patch/v1.10) (note that this is not up to date since v1.10 is not the last released patch)
+- [Original game](game-wordings/game) (EN,PL,DE,FR)
+- [LOD Expansion](game-wordings/expansion/lod) (EN,PL,DE,FR)
+- [Patch v1.10](game-wordings/patch/v1.10) (EN,PL,DE,FR). Nnote that this is not up to date since v1.10 is not the last released patch.
 
 
 WIP : more will be added. Any help is welcome.
